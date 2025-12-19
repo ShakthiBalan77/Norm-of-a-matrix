@@ -41,19 +41,21 @@ print(b)
 ## Output:
 ### 1-Norm of a Matrix
 <br>
+<img width="952" height="854" alt="Screenshot 2025-12-19 174029" src="https://github.com/user-attachments/assets/4c8fe2ac-9af5-4233-ba0c-3a66d55cd1a2" />
 <br>
 <br>
 
 ### 2-Norm of a Matrix
 <br>
+<img width="974" height="815" alt="Screenshot 2025-12-19 174220" src="https://github.com/user-attachments/assets/4434a3f9-5e25-44c6-b0cf-cb7a172a8c03" />
 <br>
 <br>
 
 ### Infinity Norm of a Matrix
 <br>
-<img width="952" height="854" alt="Screenshot 2025-12-19 174029" src="https://github.com/user-attachments/assets/4c8fe2ac-9af5-4233-ba0c-3a66d55cd1a2" />
+
 <br>
-<img width="974" height="815" alt="Screenshot 2025-12-19 174220" src="https://github.com/user-attachments/assets/4434a3f9-5e25-44c6-b0cf-cb7a172a8c03" />
+
 <br>
 <img width="995" height="691" alt="Screenshot 2025-12-19 174259" src="https://github.com/user-attachments/assets/bf7d8c99-74e4-49a2-bd64-0faca8e7d8cd" />
 
